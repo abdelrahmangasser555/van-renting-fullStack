@@ -1,6 +1,6 @@
 # VanRent - Your Mobile Van Rental Solution 🚐
 
-![VanRent App Interface](path_to_your_app_image.jpg)
+![VanRent App Interface](assets/images/about-hero.png)
 
 ## Introduction 🌟
 
